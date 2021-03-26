@@ -1,0 +1,24 @@
+body{
+    background-color:#243447;
+}
+
+.flex-container{
+    display: flex;
+    height:92vh;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.visualizing-bar{
+    width: 7px;
+    background-color: cyan;
+    display: inline-block;
+    margin: 0 3px;
+}
+
+.reset-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 35px;
+}
